@@ -1,0 +1,7 @@
+- 1998
+- https://github.com/itext/rups
+- http://developers.itextpdf.com/content/itext-7-jump-start-tutorial
+- http://shattered.io
+- https://www.docusign.com
+- https://www.eazysign.be/en/eazysign-0
+- https://helpx.adobe.com/acrobat/how-to/multiple-signatures.html
